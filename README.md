@@ -15,3 +15,8 @@ scikit-learn (modeling, pipelines)
 pickle (model persistence)
 
 Google Colab
+
+## Output
+A trained machine learning model (CancerPredictionModel.pkl)
+
+Plots showing data distribution and model evaluation metrics
